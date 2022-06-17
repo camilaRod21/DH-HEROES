@@ -1,0 +1,19 @@
+
+.home{
+background-image: url('../img/heroes-tecnología.2.jpg');
+background-repeat: no-repeat;
+background-position: right 0;
+background-size: 70%;
+text-transform: uppercase;
+}
+.home h1{
+    background-color: rgba(0, 0, 0, 0.291);
+    color:rgb(0, 0, 0);
+    font-size: 3rem;
+}
+.home nav ul li{
+    margin: 10px 0;
+}
+.home main h1{
+    font-family: var(--fuentesTitulos);
+}
